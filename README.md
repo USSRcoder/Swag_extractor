@@ -1,6 +1,6 @@
 # Swag extractor
-Extract files from SWG arhives; using lh1 (lhasa library) from quickbms<br>
-SWG arhive - PASCAL snipets From "<i>Sourceware Archival Group</i>" and "<i>File Formats Encyclopedia v2.0</i>"
+Extract files from SWG arhives; using lh1 (lhasa library) from quickbms.<br>
+SWG arhive - PASCAL snipets From "<i>Sourceware Archival Group</i>" and "<i>File Formats Encyclopedia v2.0</i>".
  
 usage:
 <pre>
